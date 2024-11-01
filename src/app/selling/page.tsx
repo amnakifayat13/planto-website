@@ -4,7 +4,7 @@ export default function Selling(){
     return(
         <div className="selling-bg overflow-hidden">
             {/* Our Top Selling Heading */}
-      <div className="flex justify-center ">
+      <div className="flex justify-center mt-20">
         <h1 className="text-slate-300 text-lg sm:text-2xl md:text-xl lg:text-6xl lg:font-semibold border-green-600 border-x-2 rounded-2xl">
           Our Top Selling
         </h1>
