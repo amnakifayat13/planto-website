@@ -59,7 +59,7 @@ export default function Main() {
 
                 <div className="text-xs sm:text-sm ml-2 sm:ml-6 mt-2">
                     <p>
-                        "At Planto, we nurture every leaf to bring<br /> nature’s beauty into your home."
+                        {  `"At Planto, we nurture every leaf to bring nature’s beauty into your home."`}
                     </p>
                 </div>
             </div>
