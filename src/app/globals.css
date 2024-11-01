@@ -27,6 +27,10 @@
   clip-path: path("M 20 20, Q 100,30 180,20 A 15 15 0 0 1 180,35 L 180,130 A 15 15 0 0 1 160,140 L 40,140 A 15 15 0 0 1 20,130 L 20,35 A 15 15 0 0 1 20,20 Z");
 }
 
+
+
+
+
 .content {
   position: relative;
   z-index: 1;
@@ -47,12 +51,31 @@
   height: 50px;
   margin-left: 10px;
 }
+
+.review-img1{
+  width: 100px;
+  height: 100px;
+  margin-left: 10px;
+  margin-top: 20px;
+}
 .box-bg {
   background: rgb(50, 50, 50, 0.7);
 }
 .selling-bg{
   background: rgb(19, 18, 18);
   height: 700px;
+}
+.review-bg{
+  background: rgb(19, 18, 18);
+  height: 500px;
+}
+.our-best-bg{
+  background: rgb(19, 18, 18);
+  height: 500px;
+
+}
+.best{
+  background: rgb(50, 50, 50, 0.7);
 }
 
   
@@ -74,6 +97,31 @@
     width: auto;
     height: 2300px;
   }
+  .review-bg{
+    background: rgb(19, 18, 18);
+    height: 720px;
+  }
+
+  .review{
+ 
+    background-color: rgba(50, 50, 50, 0.7);
+    width: 350px;
+    height: 200px;
+    border-radius: 20px;
+  }
+  .our-best-bg{
+    background: rgb(19, 18, 18);
+    height: 700px;
+  
+  }
+
+ 
   
   
+}
+@media (max-width:786px){
+  .our-best-bg{
+    background: rgb(19, 18, 18);
+    height: 700px;
+  }
 }

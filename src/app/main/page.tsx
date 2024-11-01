@@ -103,7 +103,7 @@ export default function Main() {
             </div>
 
             {/* plant3 and box */}
-            <div className="flex justify-center items-center mt-4 sm:mt-16 md:mt-8 relative ml-6">
+            <div className="flex justify-center items-center mt-4 sm:mt-16 md:mt-8 relative ml-2">
                 <div className="box-bg inline lg:flex items-center bg-opacity-70 rounded-3xl p-4 pt-12 relative  z-0 lg:h-48 w-52 sm:h-96 md:w-4/5 border-slate-300 border-x-2">
                    
 
