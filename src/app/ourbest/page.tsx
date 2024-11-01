@@ -22,7 +22,7 @@ export default function OurBest(){
             <p className="mt-4 ">At O₂ Plants, we believe in the power of nature<br/> to rejuvenate
              and purify. Our mission is to bring the health benefits of oxygen<br/>
              -producing plants into your everyday spaces</p>
-             <p className="mt-4">With O₂ Plants, you're investing in a greener, healthier, <br/>and more serene environment.
+             <p className="mt-4">With O₂ Plants, you are investing in a greener, healthier, <br/>and more serene environment.
 
 </p>
         </div>
