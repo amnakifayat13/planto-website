@@ -10,7 +10,7 @@ import { Menu } from "lucide-react";
 
 export default function Header() {
   return (
-    <div className="flex items-center justify-between bg-black w-auto max-h-16 p-4 mx-auto">
+    <div className="flex items-center justify-between bg-black w-auto max-h-16 p-4 mx-auto  overflow-hidden">
       {/* Logo and Branding Section */}
       <div className="flex items-center space-x-4">
         {/* Logo */}

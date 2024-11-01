@@ -3,7 +3,7 @@ import Image from "next/image"
 export default function Main() {
     return (
         // Upper Section
-        <div className="bg-img">
+        <div className="bg-img overflow-hidden">
             <div className="sm:flex sm:justify-between">
                 {/* Left Section with Title, Text, and Button */}
                 <div className="text-slate-300 ml-4 sm:ml-6 md:ml-10 lg:ml-20">
@@ -108,7 +108,7 @@ export default function Main() {
                    
 
                     {/* Left Section: Text Content */}
-                    <div className="text-slate-300 flex flex-col md:ml-48 -mt-8 lg:ml-48 md:mt-4">
+                    <div className="text-slate-300 flex flex-col md:ml-48 -mt-8 lg:ml-32 md:mt-4 lg:-mt-10">
                         <h2 className="text-lg md:text-2xl font-semibold">For Small Desk Ai Plant</h2>
                         <p className="mt-2 text-md text-xs">
                             Bring elegance and tranquility to any space<br/> with our lush decorative plants.
@@ -122,7 +122,7 @@ export default function Main() {
                         </div>
                     </div>
                      {/* Right Section: Image */}
-                     <div className="flex-shrink-0 mr-6 mt-6 md:ml-60">
+                     <div className="flex-shrink-0 mr-6 mt-4 md:ml-60 ">
                         <Image
                             src="/img8.png"
                             alt=""

@@ -2,14 +2,14 @@
 import Image from "next/image"
 export default function Selling(){
     return(
-        <div className="selling-bg">
+        <div className="selling-bg overflow-hidden">
             {/* Our Top Selling Heading */}
       <div className="flex justify-center ">
         <h1 className="text-slate-300 text-lg sm:text-2xl md:text-xl lg:text-6xl lg:font-semibold border-green-600 border-x-2 rounded-2xl">
           Our Top Selling
         </h1>
       </div>
-      <div className="grid grid-cols-1 mr-52 sm:grid-cols-2 md:grid-cols-2 lg:grid-cols-4  ">
+      <div className="grid grid-cols-1 justify-center   md:grid-cols-4 lg:grid-cols-4  ">
       <div className="flex justify-center  md:flex flex-col items-center mt-48 sm:mt-16 md:mt-20 relative ">
           <div className="relative">
             <Image
@@ -83,7 +83,7 @@ export default function Selling(){
           </div>
         </div>
       </div>
-      <div className="grid grid-cols-1 mr-52 sm:grid-cols-2 md:grid-cols-2 lg:grid-cols-4  lg:-mt-96 ">
+      <div className="grid grid-cols-1   md:grid-cols-4 lg:grid-cols-4  lg:-mt-96 md:-mt-[450px]">
       <div className="flex justify-center -mt-96 md:flex flex-col items-center  sm:mt-16 md:mt-20 relative ">
           <div className="relative">
             <Image
