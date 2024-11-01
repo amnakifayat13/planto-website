@@ -108,7 +108,7 @@ export default function Main() {
                    
 
                     {/* Left Section: Text Content */}
-                    <div className="text-slate-300 flex flex-col md:ml-48 -mt-8 lg:ml-32 md:mt-4 lg:-mt-10">
+                    <div className="text-slate-300 flex flex-col md:ml-48 -mt-12 lg:ml-32 md:mt-4 lg:-mt-10">
                         <h2 className="text-lg md:text-2xl font-semibold">For Small Desk Ai Plant</h2>
                         <p className="mt-2 text-md text-xs">
                             Bring elegance and tranquility to any space<br/> with our lush decorative plants.
