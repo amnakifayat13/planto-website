@@ -77,6 +77,11 @@
 .best{
   background: rgb(50, 50, 50, 0.7);
 }
+.footer{
+  background: rgb(19, 18, 18);
+  height: 250px;
+}
+
 
   
 
@@ -113,6 +118,11 @@
     background: rgb(19, 18, 18);
     height: 700px;
   
+  }
+  .footer{
+    background: rgb(19, 18, 18);
+    height:auto;
+    
   }
 
  
