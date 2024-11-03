@@ -1,6 +1,5 @@
 import Image from "next/image";
-import { Linkedin } from "lucide-react";
-import { Headset } from "lucide-react";
+
 
 export default function Footer() {
   return (
