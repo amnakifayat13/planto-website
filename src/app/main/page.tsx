@@ -40,7 +40,7 @@ export default function Main() {
             </div>
 
             {/* Review Section */}
-            <div className="review text-slate-300 ml-4 sm:ml-10 md:ml-20 -mt-96 md:-mt-96 sm:-mt-48 lg:-mt-96 border-slate-300 border-x-2">
+            <div className="review text-slate-300 w-24 ml-4 sm:ml-10 md:ml-20 -mt-96 md:-mt-96 sm:-mt-48 lg:-mt-96 border-slate-300 border-x-2">
                 <div className="flex items-center">
                     <Image
                         className="review-img w-10 h-10 sm:w-12 sm:h-12"

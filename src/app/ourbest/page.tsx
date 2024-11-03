@@ -15,7 +15,7 @@ export default function OurBest(){
         alt=""
         width={300}
         height={500}
-        className=" mt-24 ml-20 lg:-mt-16 lg:w-96 lg:h-96  "
+        className=" mt-24 ml-16 lg:-mt-16 lg:w-96 lg:h-96  "
         />
         <div className="text-slate-300 text-center md:text-left -mt-16 lg:mt-4 md:mt-24  ">
             <p className="text-md md:text-2xl"> We have Small and Best O2 Plants Collection</p>
