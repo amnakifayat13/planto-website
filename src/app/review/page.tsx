@@ -9,7 +9,7 @@ export default function Review(){
         </h1>
       </div>
           {/* Review Section */}
-<div className="grid grid-cols-1  sm:grid-cols-2 lg:grid-cols-3 gap-6 p-4 sm:p-8">
+<div className="grid grid-cols-1 justify-center sm:grid-cols-2 lg:grid-cols-3 gap-6  sm:p-8 ">
     <div className="review text-slate-300 p-4 border-slate-300 border-x-2 rounded-lg">
         <div className="flex items-center w-30">
             <Image
@@ -44,7 +44,7 @@ export default function Review(){
             </div>
         </div>
         <div className="text-xs md:text-sm -mt-4">
-            <p>At Planto, we nurture every leaf to bring nature’s beauty into your home.</p>
+            <p>At Planto, we nurture every leaf to bring,<br/> nature’s beauty into your home.</p>
         </div>
     </div>
 
