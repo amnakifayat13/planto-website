@@ -109,7 +109,7 @@ export default function Selling(){
               alt="img7"
               width={150}
               height={150}
-              className="absolute -top-16 left-1/2 transform -translate-x-1/2 z-10 sm:w-40 sm:h-40 "
+              className="absolute -top-20 left-1/2 transform -translate-x-1/2 z-10 sm:w-40 sm:h-40 "
             />
             <div className="custom-box flex flex-col items-center p-4 pt-12 relative z-0 bg-slate-800 rounded-lg text-center">
               <p className="text-xs sm:text-sm text-slate-300">Trendy House Plant</p>

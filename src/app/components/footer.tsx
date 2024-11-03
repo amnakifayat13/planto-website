@@ -47,7 +47,7 @@ export default function Footer() {
             />
             <button
               type="submit"
-              className="mt-2 md:mt-0 md:ml-2 text-slate-950 px-4 py-2 bg-green-800 rounded-lg hover:bg-green-950 hover:text-slate-300 transition duration-300"
+              className="mt-2 md:mt-0 md:ml-2 text-slate-300 px-4 py-2 bg-green-800 rounded-lg hover:bg-green-950 hover:text-slate-300 transition duration-300"
             >
               Submit
             </button>

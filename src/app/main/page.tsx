@@ -13,9 +13,11 @@ export default function Main() {
                     <p className="text-xs sm:text-sm md:text-base mt-2">
                         Transform your space into a thriving sanctuary of green!
                     </p>
+                    <div className=" md:block">
                     <button className="mt-4 border-2 border-slate-300 w-40 sm:w-48 md:w-56 h-10 rounded text-slate-300">
                         Explore
                     </button>
+                    </div>
                 </div>
 
                 {/* Right Section with Image and Box */}
@@ -40,7 +42,7 @@ export default function Main() {
             </div>
 
             {/* Review Section */}
-            <div className="review text-slate-300 w-24 ml-4 sm:ml-10 md:ml-20 -mt-96 md:-mt-96 sm:-mt-48 lg:-mt-96 border-slate-300 border-x-2">
+            <div className="review text-slate-300 pr-10 ml-4 sm:ml-10 md:ml-20 -mt-96 md:-mt-96 sm:-mt-48 lg:-mt-96 border-slate-300 border-x-2">
                 <div className="flex items-center">
                     <Image
                         className="review-img w-10 h-10 sm:w-12 sm:h-12"

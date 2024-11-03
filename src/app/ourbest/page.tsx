@@ -9,13 +9,13 @@ export default function OurBest(){
           Our Best O2
         </h1>
       </div>
-      <div className="best inline  md:flex md:ml-10 md:justify-center lg:flex justify-center mt-12 md:w-[720px] lg:w-[920px] lg:h-[270px] border-x-2 border-slate-300 rounded-xl lg:ml-48">
+      <div className="best inline  md:flex md:ml-20 md:justify-center lg:flex justify-center mt-12 md:w-[720px] lg:w-[920px] lg:h-[270px] border-x-2 border-slate-300 rounded-xl lg:ml-48">
         <Image
         src="/img1.png"
         alt=""
         width={300}
         height={500}
-        className=" mt-24 ml-16 lg:-mt-16 lg:w-96 lg:h-96  "
+        className=" mt-24 ml-20 lg:-mt-16 lg:w-96 lg:h-96  "
         />
         <div className="text-slate-300 text-center md:text-left -mt-16 lg:mt-4 md:mt-24  ">
             <p className="text-md md:text-2xl"> We have Small and Best O2 Plants Collection</p>
