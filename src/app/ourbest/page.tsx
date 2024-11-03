@@ -9,7 +9,7 @@ export default function OurBest(){
           Our Best O2
         </h1>
       </div>
-      <div className="best inline  md:flex md:ml-20 md:justify-center lg:flex justify-center mt-12 md:w-[720px] lg:w-[920px] lg:h-[270px] border-x-2 border-slate-300 rounded-xl lg:ml-48">
+      <div className="best inline  md:ml-10 md:flex  md:justify-center lg:flex justify-center mt-12 md:w-[720px] lg:w-[920px] lg:h-[270px] border-x-2 border-slate-300 rounded-xl lg:ml-48">
         <Image
         src="/img1.png"
         alt=""
