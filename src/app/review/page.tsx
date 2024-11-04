@@ -9,7 +9,7 @@ export default function Review(){
         </h1>
       </div>
           {/* Review Section */}
-<div className="grid grid-cols-1 justify-center ml-[50px] sm:grid-cols-2 lg:grid-cols-3 gap-6 p-4 sm:p-8">
+<div className="grid grid-cols-1 justify-center ml-[30px] sm:grid-cols-2 lg:grid-cols-3 gap-6 p-4 sm:p-8">
     <div className="review1 text-slate-300 p-4 border-slate-300 border-x-2 rounded-lg">
         <div className="flex items-center w-48">
             <Image
