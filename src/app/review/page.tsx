@@ -29,7 +29,7 @@ export default function Review(){
         </div>
     </div>
 
-    <div className="review text-slate-300 p-4 border-slate-300 border-x-2 rounded-lg">
+    <div className="review1 text-slate-300 p-4 border-slate-300 border-x-2 rounded-lg">
         <div className="flex items-center">
             <Image
                 className="review-img1 w-12 h-12 md:w-16 md:h-16"
@@ -48,7 +48,7 @@ export default function Review(){
         </div>
     </div>
 
-    <div className="review text-slate-300 p-4 border-slate-300 border-x-2 rounded-lg">
+    <div className="review1 text-slate-300 p-4 border-slate-300 border-x-2 rounded-lg">
         <div className="flex items-center">
             <Image
                 className="review-img1 w-12 h-12 md:w-16 md:h-16"
