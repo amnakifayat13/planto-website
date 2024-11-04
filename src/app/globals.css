@@ -88,11 +88,7 @@
 
 @media (max-width: 486px) {
   .review{
-    border: 1px grey;
-    background-color: rgba(50, 50, 50, 0.7);
-    width: 100%;
-    height: 100vh;
-    border-radius: 20px;
+   width: 300px;
   }
   .review-img {
     width: 20px;  /* Adjust width */
@@ -134,5 +130,35 @@
   .our-best-bg{
     background: rgb(19, 18, 18);
     height: 700px;
+  }
+}
+
+@media (max-width:320px){
+  .review{
+ 
+    background-color: rgba(50, 50, 50, 0.7);
+    width: auto;
+    height: 180px;
+    border-radius: 20px;
+    margin-right: 20px;
+  
+  }
+
+  .review1{
+ 
+    background-color: rgba(50, 50, 50, 0.7);
+    width: auto;
+    height: 180px;
+    border-radius: 20px;
+    margin-right: 20px;
+    margin-top: -10px;
+  }
+  .bext-img{
+   padding-right: 120px;
+   margin-top: -20px;
+   margin-bottom: 20px;
+  }
+  .footer-img{
+    margin-top: -100px;
   }
 }

@@ -12,7 +12,7 @@ export default function Footer() {
             alt=""
             width={100}
             height={100}
-            className=""
+            className="footer-img"
           />
         </div>
         <h2 className="text-slate-300 text-2xl mt-2 font-semibold">Planto</h2>
